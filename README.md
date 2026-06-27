@@ -88,7 +88,7 @@
 * 📰 **Featured Publication:** Alem, D., Bonilla-Londono, H.F., Barbosa-Povoa, A.P., Relvas, S., Ferreira, D., Moreno, A. (2021). **"Building disaster preparedness and response capacity in humanitarian supply chains using the Social Vulnerability Index."** *European Journal of Operational Research*, 292(1), 250–275.
   <br>
   <a href="https://10.1016/j.ejor.2020.10.016" target="_blank">
-    <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.ejor.2020.10.027-A81D23?style=flat-square&logo=elsevier&logoColor=white" alt="DOI Link" />
+    <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.ejor.2020.10.016-A81D23?style=flat-square&logo=elsevier&logoColor=white" alt="DOI Link" />
   </a>
   <ul>
     <li><i>Highlights:</i> Two-stage SMIP (CPLEX) · 18 stochastic disaster scenarios · SoVI-weighted coverage across 13 municipalities · 18 years of real data · cited 30+ times.</li>
