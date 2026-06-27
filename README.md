@@ -97,7 +97,14 @@
     <li><i>Highlights:</i> Two-stage SMIP (CPLEX) · 18 stochastic disaster scenarios · SoVI-weighted coverage across 13 municipalities · 18 years of real data · cited 30+ times.</li>
     <li>🏆 <b>Award:</b> Honored as the <b>"Best EJOR Paper Award – EURO 2023"</b>.</li>
   </ul>
-
+* 📰 **Co-Authored Publication:** Suescún-Díaz, D., Bonilla-Londoño, H. F., & Figueroa-Jimenez, J. H. (2016). **"Savitzky–Golay filter for reactivity calculation."** *Journal of Nuclear Science and Technology*, 53(7), 944–950.
+  <br>
+  <a href="https://doi.org/10.1080/00223131.2015.1082949" target="_blank">
+    <img src="https://img.shields.io/badge/DOI-10.1080%2F00223131.2015.1082949-0096D6?style=flat-square&logo=taylor-&-francis&logoColor=white" alt="DOI Link" />
+  </a>
+  <ul>
+    <li><i>Highlights:</i> Mathematical filtering techniques applied to computational calculation processes.</li>
+  </ul>
 * 🏆 **Training:** Gurobi Training: Optimization 301 for Data Scientists *(Dec 2, 2025)*
 
 ---
