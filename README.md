@@ -82,7 +82,7 @@
   * *Thesis [PT-Bra]:* [**"Optimization Model for a Humanitarian Supply Network in Brazil"**](https://repositorio.ufscar.br/server/api/core/bitstreams/9f610ece-7678-4ebe-8613-f398c56cbb7b/content)
 * 📐 **BSc Industrial Engineering + BSc Applied Mathematics** | *Pontifical Xavierian University, Colombia* (2014 / 2015)
 * * *Thesis Bsc Industrial [ES]:* [**"Characterization of Factors in the Pre-Hospital Care Vehicle Dispatch Process at an Emergency Medical Services Company"**](https://vitela.javerianacali.edu.co/items/c3c618b0-69f1-487a-9511-02e5d1177a08)
-  * * * Thesis BSc Applied Mathematics [ES]:* [**"A hybrid method for calculating the reactivity in nuclear reacto"**]
+* * *Thesis Bsc Applied Mathematics [ES]:* **A hybrid method for calculating the reactivity in nuclear reactor**
 
 ---
 
