@@ -76,10 +76,11 @@
 
 ## 🎓 EDUCATION
 
-* 🏛️ **PhD in Engineering & Management** | *Instituto Superior Técnico, Lisbon* (Expected 2028) 
-  * *Thesis: Data-Driven Stochastic Optimization for Smart Waste Collection Routing* 
-* 🏭 **MSc in Production Engineering** | *Federal University of São Carlos, Brazil* (2018) 
-* 📐 **BSc Industrial Engineering + BSc Applied Mathematics** | *Pontifical Xavierian University, Colombia* (2014 / 2015) 
+* 🏛️ **PhD in Engineering & Management** | *Instituto Superior Técnico, Lisbon* (Expected 2028)
+  * *Thesis: Data-Driven Stochastic Optimization for Smart Waste Collection Routing*
+* 🏭 **MSc in Production Engineering** | *Federal University of São Carlos, Brazil* (2018)
+  * *Thesis [PT-Bra]:* [**"Optimization Model for a Humanitarian Supply Network in Brazil"**](https://repositorio.ufscar.br/server/api/core/bitstreams/9f610ece-7678-4ebe-8613-f398c56cbb7b/content)
+* 📐 **BSc Industrial Engineering + BSc Applied Mathematics** | *Pontifical Xavierian University, Colombia* (2014 / 2015)
 
 ---
 
