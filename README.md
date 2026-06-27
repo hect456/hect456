@@ -34,7 +34,7 @@
 | ⚙️ **Solvers** | `Gurobi` `CPLEX` `OR-Tools` `AMPL` `GAMS` — *B&B tuning, problem-specific cut generation, solution pool analysis* |
 | 🔄 **Solution Methods**| `Branch-and-Cut` `Column Generation` `Monte Carlo SAA` `Large Neighborhood Search (LNS)` `Metaheuristics` |
 | 🐍 **Python / OR Stack**| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> `Pyomo` `OR-Tools` `Pandas` `NumPy` `SciPy` `Matplotlib` — *model to production pipeline*  |
-| 📈 **ML / Forecasting** | `ARIMA` `LSTM` — *demand and overflow forecasting integrated into optimization loops* [cite: 2] |
+| 📈 **ML / Forecasting** | `ARIMA` `LSTM` — *demand and overflow forecasting integrated into optimization loops* |
 | 📊 **Data & Reporting** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> `Power BI` `Excel Advanced` `Python dashboards`  |
 
 ---
