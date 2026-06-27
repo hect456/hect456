@@ -7,7 +7,7 @@
   <a href="mailto:hectorfabiobonilla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/hector-fabio-bonilla-londono-00055836" target="_blank">
+  <a href="https://www.linkedin.com/in/hector-fabio-bonilla-londo%C3%B1o-00055836/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://cegist.tecnico.ulisboa.pt/user/1001" target="_blank">
